@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+This is right!
+
+There are not many things that are as true as this.
